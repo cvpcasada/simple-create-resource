@@ -5,6 +5,8 @@ Note that this doesn't respect [HTTP Caching](https://gist.github.com/ryanfloren
 
 This project was bootstrapped with [TSDX](https://github.com/jaredpalmer/tsdx).
 
+Credits to [Ryan Florence](https://github.com/ryanflorence) [gist source](https://gist.github.com/ryanflorence/e10cc9dbc0e259759ec942ba82e5b57c) this is just that, I just added some typescript types.
+
 ```js
 
 Usage:
